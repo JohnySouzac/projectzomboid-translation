@@ -1,0 +1,19 @@
+	 Official Brazilian Translation 
+	 
+Translated by Project Zomboid Brasil
+
+- Build: 39.67.5
+- Date: 13/07/2018
+- Translation Team:
+	Bruno Duarte Machado (DuMa)
+	Alan Johny Souza Carvalho (JohnySouzac)
+	Pedro Thiago Lobato (JokerQuinn)
+-Reviewer
+	Rodrigo Mantoan (Mantoan)
+
+- Description:
+	For news, updates, and patch notes: https://www.facebook.com/ProjectZomboidBrasil/
+
+- Community Help on Beta Test
+	@RafaelPires
+
