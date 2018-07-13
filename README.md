@@ -1,4 +1,4 @@
-# projectzomboid-translation-ptbr
+# Project Zomboid - Tradução PT-BR
 PT-BR translations of Project Zomboid
 
 COMO UTILIZAR ESTA TRADUÇÃO:
